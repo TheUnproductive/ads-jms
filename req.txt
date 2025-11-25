@@ -3,3 +3,6 @@ scipy
 matplotlib
 wavio
 pydub
+audioop-lts
+alive_progress
+bitstring
